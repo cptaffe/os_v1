@@ -13,13 +13,10 @@
 #include <stddef.h>
 #include <stdint.h>
 
-#include "io.h"
+#include "io/io.h"
 
 // first tty, defined on the stack
 
-#if defined(__cplusplus)
-extern "C" // Use C linkage for kernel_main.
-#endif
 void main() {
 	open(&io_out);
 	/* Since there is no support for newlines in terminal_putchar yet, \n will
