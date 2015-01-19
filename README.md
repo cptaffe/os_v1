@@ -1,5 +1,5 @@
 # os
-Toy operating system from OsDev's barebones [wiki](wiki.osdev.org)
+Toy operating system from OsDev's barebones [wiki](http://wiki.osdev.org)
 
 ## Compilation
 
