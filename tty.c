@@ -1,4 +1,6 @@
 
+// Copyright (c) 2015 Connor Taffe <cpaynetaffe@gmail.com>
+
 #include <stdbool.h>
 #include <stddef.h>
 #include <stdint.h>

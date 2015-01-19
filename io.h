@@ -1,4 +1,6 @@
 
+// Copyright (c) 2015 Connor Taffe <cpaynetaffe@gmail.com>
+
 #include "tty.h"
 
 // global output tty
